@@ -1,0 +1,29 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+	  "tag": "minecraft:saplings"
+    },
+	{
+	  "tag": "minecraft:saplings"
+    },
+	{
+	  "tag": "minecraft:flowers"
+    },
+	{
+	  "tag": "minecraft:flowers"
+    },
+    {
+      "item": "create:powdered_obsidian"
+    },
+	{
+      "item": "ae2:ender_dust"
+    }
+  ],
+  "results": [
+    {
+      "count": 4,
+	  "item": "minecraft:chorus_flower"
+    }
+  ]
+}

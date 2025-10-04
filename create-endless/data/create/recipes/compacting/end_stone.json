@@ -1,0 +1,27 @@
+{
+  "type": "create:compacting",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:sandstone"
+    },
+    {
+      "item": "minecraft:sandstone"
+    },
+    {
+      "item": "minecraft:sandstone"
+    },
+    {
+      "item": "minecraft:sandstone"
+    },
+    {
+      "item": "ae2:ender_dust"
+    }
+  ],
+  "results": [
+    {
+      "count": 8,
+	  "item": "minecraft:end_stone"
+    }
+  ]
+}
